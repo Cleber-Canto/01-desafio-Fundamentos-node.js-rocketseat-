@@ -1,0 +1,11 @@
+title,description,priority,responsible,status,tags,notes,contact,attachments,due_date
+Task 01,Descrição da Task 01,alta,João,pendente,trabalho,Importante!,joao@email.com,/path/to/file.pdf,2023-10-31
+Task 02,Descrição da Task 02,média,Maria,em_andamento,estudo,Rever material de estudo,maria@email.com,/path/to/image.png,2023-11-05
+Task 03,Descrição da Task 03,baixa,Carlos,concluída,reunião,Conferir agenda,carlos@email.com,,2023-11-02
+Task 04,Descrição da Task 04,alta,Lucas,pendente,projeto,Desenvolver funcionalidade,lucas@email.com,/path/to/doc.docx,2023-11-08
+Task 05,Descrição da Task 05,média,Ana,em_andamento,estudo,Preparar apresentação,ana@email.com,/path/to/image.png,2023-11-10
+Task 06,Descrição da Task 06,baixa,Isabela,concluída,limpeza,Limpar o escritório,isabela@email.com,,2023-11-15
+Task 07,Descrição da Task 07,alta,Gustavo,pendente,projeto,Analisar requisitos,gustavo@email.com,/path/to/doc.docx,2023-11-20
+Task 08,Descrição da Task 08,média,Sofia,em_andamento,estudo,Revisar código,sofia@email.com,/path/to/image.png,2023-11-25
+Task 09,Descrição da Task 09,baixa,Mateus,concluída,reunião,Agendar reunião,mateus@email.com,,2023-11-30
+Task 10,Descrição da Task 10,alta,Larissa,pendente,trabalho,Elaborar relatório,larissa@email.com,/path/to/doc.docx,2023-12-05
